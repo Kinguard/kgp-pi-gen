@@ -1,0 +1,5 @@
+IMG_NAME='PiKinguard'
+TARGET_HOSTNAME='pikgp'
+FIRST_USER_NAME='kgp'
+FIRST_USER_PASS='kgp'
+STAGE_LIST='stage0 kgp0 stage1 stage2 kgp2'
